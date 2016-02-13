@@ -5,8 +5,7 @@ date:   2016-02-13 09:00:00
 author: Rupert Hawkes
 categories: News
 tags:	jekyll welcome
-cover:  "/assets/instacode.png"
----
+=---
 
 
 ### Tags and Categories
