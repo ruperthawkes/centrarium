@@ -1,4 +1,8 @@
-
+---
+layout: page
+title: Albums
+permalink: /albums/
+---
 Catalogue no.
 UPC
 Release Date
