@@ -7,12 +7,12 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
-email: blcentra@gmail.com
-name: Ben Centra
+title: Rupert Hawkes
+subtitle: "Fingerstyle Guitarist"
+email: rupert@boiledsweets.com
+name: Rupert Hawkes
 description: >
-  A simple yet classy theme for your Jekyll website or blog.
+  Solo fingerstyle guitarist
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
@@ -73,7 +73,7 @@ social:
     username: TheBenCentra
     url: https://twitter.com/TheBenCentra
     desc: Follow me on Twitter
-    share: true
+    share: false
 
   - name: Facebook
     icon: facebook
@@ -94,7 +94,7 @@ social:
     username: Ben Centra
     url: https://www.linkedin.com/pub/ben-centra/47/769/60a
     desc: Connect with me on LinkedIn
-    share: true
+    share: false
 
   - name: Google+
     icon: google-plus
@@ -122,7 +122,7 @@ social:
     username:
     url:
     desc: Follow me on Pinterest
-    share: true
+    share: false
 
   - name: SoundCloud
     icon: soundcloud
