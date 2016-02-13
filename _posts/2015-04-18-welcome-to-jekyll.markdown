@@ -6,7 +6,7 @@ author: Rupert Hawkes
 categories: News
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
-----
+---
 
 
 ### Tags and Categories
