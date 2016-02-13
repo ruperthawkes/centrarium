@@ -23,7 +23,7 @@ logo: "/assets/logo.png"
 
 # Build settings
 markdown: kramdown
-paginate: 5
+paginate: 3
 paginate_path: "/page:num/"
 inter_post_navigation: false
 highlightjs_theme: "monokai_sublime"
@@ -77,7 +77,7 @@ social:
 
   - name: Facebook
     icon: facebook
-    username: thebencentra
+    username: rupert.hawkes
     url:
     desc: Friend me on Facebook
     share: true
@@ -101,7 +101,7 @@ social:
     username:
     url:
     desc: Add me to your Circles
-    share: true
+    share: false
 
   - name: YouTube
     icon: youtube
@@ -171,7 +171,7 @@ social:
     username:
     url:
     desc: Share to Reddit
-    share: true
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
