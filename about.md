@@ -6,4 +6,3 @@ permalink: /about/
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
-[jekyll]: https://github.com/jekyll/jekyll
