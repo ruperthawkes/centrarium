@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: album
 title: Quadruped
 permalink: /albums/quadruped
 ---
