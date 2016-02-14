@@ -9,7 +9,6 @@ cover:  "/assets/instacode.png"
 ---
 Hello to my new site dedicated to my endeavours as a solo fingerstyle guitarist.   
 
-The following image is temporary whilst I test...
-<a href="{{ url }}/assets/albums/quarruped_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+<a href="{{ url }}/assets/albums/quaruped_large.jpg" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
   <img src="//bencentra.com/assets/images/falcon9_small.jpg" title="Check out the Falcon 9 from SpaceX">
 </a>
