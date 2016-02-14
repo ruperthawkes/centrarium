@@ -22,6 +22,7 @@ $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
 // Colors
+$black: #000;
 $dark-gray: #111;
 $medium-gray: #999;
 $light-gray: #ddd;
@@ -39,7 +40,7 @@ $bc-red: #bc0000;
 
 // Font Colors
 $base-background-color: #111;
-$base-font-color: $dark-gray;
+$base-font-color: $black;
 $action-color: $dark-gray;
 $highlight-color: tint($action-color, 33%);
 
