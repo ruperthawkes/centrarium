@@ -2,6 +2,6 @@
 layout: album
 title: Quadruped
 permalink: /albums/quadruped
-showinnavbar : false
+main_nav : false
 ---
 this is quadruped
