@@ -104,7 +104,7 @@ pre code.hljs {
 	padding: 0 1em;
 	margin: 0;
 	background-color: $highlight-color;
-	color: #000;
+	color: $white;
 	/*
 	*	Navigation Menu - http://refills.bourbon.io/unstyled/ (see "Navigation")
 	*/
@@ -117,6 +117,7 @@ pre code.hljs {
     padding-top: 0.5em;
     @include media ($tablet) {
       display: none;
+    color: $white;  
     }
   }
   // Nav menu
