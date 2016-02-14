@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my new site..."
 date:   2016-02-13 09:00:00
 author: Rupert Hawkes
-categories: News
+categories: Welcome
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
