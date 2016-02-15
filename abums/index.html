@@ -3,18 +3,25 @@ layout: page
 title: Albums
 permalink: /albums/
 ---
-.container{ 
-text-align:center; 
-} 
+<style>
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    width: 180px;
+}
+div.img:hover {
+    border: 1px solid #777;
+}
+div.img img {
+    width: 100%;
+    height: auto;
+}
+</style>
 
-.theimg{ 
-display:inline-block; 
-padding-right: 30px; 
-} 
-
-<div class="container"> 
-<img class="theimg" src="{{ url }}/assets/albums/quaruped_large.jpg" alt="Fjords" width="300" height="300"></img> 
-<img class="theimg" src="{{ url }}/assets/albums/quaruped_large.jpg" alt="Fjords" width="300" height="300"></img> 
-</div> 
-
-
+<div class="img">
+  <a href="/albums/quadruped">
+    <img src="{{ url }}/assets/albums/quaruped_large.jpg" alt="Quadruped" width="300" height="300">
+    <img src="{{ url }}/assets/albums/quaruped_large.jpg" alt="Quadruped" width="300" height="300">
+  </a>
+  
+</div>
